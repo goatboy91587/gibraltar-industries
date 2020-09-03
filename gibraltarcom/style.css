@@ -5777,6 +5777,11 @@ a:hover .bg-dark .plus:before,
 		padding-bottom: 132px;
 	}
 
+	.social-tiles.atricles-block {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
 	.article-post:nth-child(even) .text-holder,
 	.article-post.reverse .text-holder {
 		padding: 77px 134px 20px 64px;
