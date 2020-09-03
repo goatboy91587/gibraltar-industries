@@ -742,6 +742,25 @@
                         "delay": 0
                     }
                 ]
+            },
+            {
+                "key": "field_5f50967597928",
+                "label": "Video Embed",
+                "name": "video_embed",
+                "type": "wysiwyg",
+                "instructions": "Video embed section for Social Responsibility page.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 0,
+                "delay": 0
             }
         ],
         "location": [
@@ -2412,8 +2431,8 @@
                         "default_value": "",
                         "placeholder": "",
                         "maxlength": "",
-                        "rows": 4,
-                        "new_lines": "wpautop"
+                        "rows": "",
+                        "new_lines": ""
                     }
                 ]
             },
@@ -4044,7 +4063,7 @@
                 "key": "field_5d9f625d1d195",
                 "label": "Block Text",
                 "name": "block_text",
-                "type": "textarea",
+                "type": "wysiwyg",
                 "instructions": "",
                 "required": 0,
                 "conditional_logic": 0,
@@ -4054,10 +4073,10 @@
                     "id": ""
                 },
                 "default_value": "",
-                "placeholder": "",
-                "maxlength": "",
-                "rows": 2,
-                "new_lines": "wpautop"
+                "tabs": "all",
+                "toolbar": "full",
+                "media_upload": 1,
+                "delay": 0
             },
             {
                 "key": "field_5e443ca05cd78",
