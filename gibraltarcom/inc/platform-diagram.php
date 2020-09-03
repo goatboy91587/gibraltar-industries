@@ -38,3 +38,13 @@
 	</div>
 </section>
 <?php } ?>
+
+<?php if( get_field('video_content') ): ?>
+	<section class="video-block">
+		<div class="container">
+			<article class="article-post">
+				<?php the_field('video_content'); ?>
+			</article>
+		</div>
+	</section>
+<?php endif; ?>

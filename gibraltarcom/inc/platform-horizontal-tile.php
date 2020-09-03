@@ -2,8 +2,8 @@
 $block_text = get_field('block_text');
 $button = get_field('button');
 if(have_rows('boxes_horizontal') || $button || $block_title || $block_text){ ?>
-<section class="atricles-block bg-light bg-extended horiztonal social-tiles">
-	<?php if($block_title || $block_text && !is_page('social-responsibility')){ ?>
+<section class="atricles-block bg-light bg-extended horiztonal">
+	<?php if($block_title || $block_text){ ?>
 	<header class="section-header text-center">
 		<?php if($block_title){ ?><h2><?php echo $block_title; ?></h2><?php } ?>
 		<?php echo $block_text ?>

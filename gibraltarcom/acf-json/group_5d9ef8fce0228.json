@@ -184,8 +184,8 @@
                     "default_value": "",
                     "placeholder": "",
                     "maxlength": "",
-                    "rows": "",
-                    "new_lines": ""
+                    "rows": 4,
+                    "new_lines": "wpautop"
                 }
             ]
         },
@@ -259,7 +259,7 @@
     "hide_on_screen": [
         "featured_image"
     ],
-    "active": 1,
+    "active": true,
     "description": "",
-    "modified": 1597939085
+    "modified": 1583511335
 }

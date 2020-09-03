@@ -25,7 +25,7 @@
             "key": "field_5d9f625d1d195",
             "label": "Block Text",
             "name": "block_text",
-            "type": "wysiwyg",
+            "type": "textarea",
             "instructions": "",
             "required": 0,
             "conditional_logic": 0,
@@ -35,10 +35,10 @@
                 "id": ""
             },
             "default_value": "",
-            "tabs": "all",
-            "toolbar": "full",
-            "media_upload": 1,
-            "delay": 0
+            "placeholder": "",
+            "maxlength": "",
+            "rows": 2,
+            "new_lines": "wpautop"
         },
         {
             "key": "field_5e443ca05cd78",
@@ -286,6 +286,11 @@
                 "param": "page_template",
                 "operator": "==",
                 "value": "pages\/template-strategy.php"
+            },
+            {
+                "param": "page",
+                "operator": "!=",
+                "value": "898"
             }
         ],
         [
@@ -306,5 +311,5 @@
     ],
     "active": 1,
     "description": "",
-    "modified": 1597939106
+    "modified": 1591811972
 }

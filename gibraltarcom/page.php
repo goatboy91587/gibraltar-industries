@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 	<section class="twocolumns container">
 		<?php while ( have_posts() ) : the_post(); ?>
-			<?php the_title( '<header class="section-header"><h1>', '</h1></header>' ); ?>
+			<!--<?php the_title( '<header class="section-header"><h1>', '</h1></header>' ); ?>-->
 			<div id="content">
 				<?php the_post_thumbnail( 'full' ); ?>
 				<?php the_content(); ?>

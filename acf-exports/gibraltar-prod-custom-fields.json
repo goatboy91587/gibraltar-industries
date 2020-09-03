@@ -694,7 +694,7 @@
                 "name": "top_blue_block",
                 "type": "group",
                 "instructions": "",
-                "required": 1,
+                "required": 0,
                 "conditional_logic": 0,
                 "wrapper": {
                     "width": "",
@@ -742,25 +742,6 @@
                         "delay": 0
                     }
                 ]
-            },
-            {
-                "key": "field_5f50967597928",
-                "label": "Video Embed",
-                "name": "video_embed",
-                "type": "wysiwyg",
-                "instructions": "Video embed section for Social Responsibility page.",
-                "required": 0,
-                "conditional_logic": 0,
-                "wrapper": {
-                    "width": "",
-                    "class": "",
-                    "id": ""
-                },
-                "default_value": "",
-                "tabs": "all",
-                "toolbar": "full",
-                "media_upload": 0,
-                "delay": 0
             }
         ],
         "location": [
@@ -1693,6 +1674,13 @@
                     "operator": "==",
                     "value": "pages\/template-home.php"
                 }
+            ],
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "898"
+                }
             ]
         ],
         "menu_order": 0,
@@ -1861,6 +1849,11 @@
                     "param": "page_template",
                     "operator": "==",
                     "value": "pages\/template-strategy.php"
+                },
+                {
+                    "param": "page",
+                    "operator": "!=",
+                    "value": "898"
                 }
             ],
             [
@@ -2431,8 +2424,8 @@
                         "default_value": "",
                         "placeholder": "",
                         "maxlength": "",
-                        "rows": "",
-                        "new_lines": ""
+                        "rows": 4,
+                        "new_lines": "wpautop"
                     }
                 ]
             },
@@ -3613,6 +3606,48 @@
         "description": ""
     },
     {
+        "key": "group_5ee8c39fbab01",
+        "title": "Video Boxes",
+        "fields": [
+            {
+                "key": "field_5ee8c3b4a5b20",
+                "label": "Video Content",
+                "name": "video_content",
+                "type": "wysiwyg",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "tabs": "text",
+                "media_upload": 1,
+                "toolbar": "full",
+                "delay": 0
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "page_template",
+                    "operator": "==",
+                    "value": "pages\/template-platform.php"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": ""
+    },
+    {
         "key": "group_5d9ef6a26be31",
         "title": "Intro Fields",
         "fields": [
@@ -4063,7 +4098,7 @@
                 "key": "field_5d9f625d1d195",
                 "label": "Block Text",
                 "name": "block_text",
-                "type": "wysiwyg",
+                "type": "textarea",
                 "instructions": "",
                 "required": 0,
                 "conditional_logic": 0,
@@ -4073,10 +4108,10 @@
                     "id": ""
                 },
                 "default_value": "",
-                "tabs": "all",
-                "toolbar": "full",
-                "media_upload": 1,
-                "delay": 0
+                "placeholder": "",
+                "maxlength": "",
+                "rows": 2,
+                "new_lines": "wpautop"
             },
             {
                 "key": "field_5e443ca05cd78",
@@ -4324,6 +4359,11 @@
                     "param": "page_template",
                     "operator": "==",
                     "value": "pages\/template-strategy.php"
+                },
+                {
+                    "param": "page",
+                    "operator": "!=",
+                    "value": "898"
                 }
             ],
             [
