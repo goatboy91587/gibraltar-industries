@@ -25,8 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6e5710c-9813-4409-a9a1-ebd9df9d587d" name="Default Changelist" comment="Added class to horizontal tiles to remove top and bottom padding from section.">
+    <list default="true" id="b6e5710c-9813-4409-a9a1-ebd9df9d587d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gibraltarcom/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/gibraltarcom/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +64,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gibraltarcom/inc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Projects\gibraltar-industries\gibraltarcom\inc" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599113803602</updated>
-      <workItem from="1599113804902" duration="2271000" />
+      <workItem from="1599113804902" duration="3564000" />
     </task>
     <task id="LOCAL-00001" summary="Initial production code check in">
       <created>1599113995434</created>
@@ -147,7 +154,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599116086544</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added class to horizontal tiles to remove top and bottom padding from section.">
+      <created>1599116103364</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599116103364</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added new block to remove header from social template's image/text fields.">
+      <created>1599116379801</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599116379801</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added social tiles class to template">
+      <created>1599116522040</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1599116522040</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,13 +222,15 @@
     <MESSAGE value="Updated .gitignore" />
     <MESSAGE value="Created new platform snippet without header and title for social page template." />
     <MESSAGE value="Added class to horizontal tiles to remove top and bottom padding from section." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added class to horizontal tiles to remove top and bottom padding from section." />
+    <MESSAGE value="Added new block to remove header from social template's image/text fields." />
+    <MESSAGE value="added social tiles class to template" />
+    <option name="LAST_COMMIT_MESSAGE" value="added social tiles class to template" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2143" y="451" key="CommitChangelistDialog2" timestamp="1599115105407">
+    <state x="2010" y="436" key="CommitChangelistDialog2" timestamp="1599116521392">
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
-    <state x="2143" y="451" key="CommitChangelistDialog2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599115105407" />
+    <state x="2010" y="436" key="CommitChangelistDialog2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599116521392" />
     <state x="2012" y="92" width="1016" height="1736" key="DiffContextDialog" timestamp="1599114594290">
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
@@ -213,9 +243,9 @@
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
     <state x="2021" y="604" key="SettingsEditor/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599114821679" />
-    <state x="2112" y="688" key="Vcs.Push.Dialog.v2" timestamp="1599115221877">
+    <state x="2112" y="688" key="Vcs.Push.Dialog.v2" timestamp="1599116523898">
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
-    <state x="2112" y="688" key="Vcs.Push.Dialog.v2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599115221877" />
+    <state x="2112" y="688" key="Vcs.Push.Dialog.v2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599116523898" />
   </component>
 </project>

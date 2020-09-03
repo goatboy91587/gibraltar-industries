@@ -86,4 +86,26 @@
 				}
 				echo '</div>';
 			} ?>
+            <?php if(is_page_template('pages/template-social.php')){
+                if($top_blue_block = get_field('top_blue_block')){
+                    ?>
+                    <section class="content-block container bg-dark bg-blue">
+                        <?php if(isset($top_blue_block['title']) && !empty($top_blue_block['title'])){ ?>
+                                <h2><?php echo $top_blue_block['title'] ?></h2>
+                        <?php } ?>
+                        <?php if(isset($top_blue_block['video_embed']) && !empty($top_blue_block['video_embed'])){ ?>
+                            <div class="content-holder social-responsibility">
+                                <?php echo $top_blue_block['video_embed'] ?>
+                            </div>
+                        <?php } ?>
+                        <?php if(isset($top_blue_block['text']) && !empty($top_blue_block['text'])){ ?>
+                            <div class="content-holder social-responsibility">
+                                <?php echo $top_blue_block['text'] ?>
+                            </div>
+                        <?php } ?>
+                    </section>
+                    <?php
+                }
+                echo '</div>';
+            } ?>
 			<main class="main">
