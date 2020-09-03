@@ -2,7 +2,7 @@
 
 $button = get_field('button');
 if(have_rows('boxes_horizontal') || $button || $block_title || $block_text){ ?>
-    <section class="atricles-block bg-light bg-extended horiztonal">
+    <section class="atricles-block bg-light bg-extended horiztonal social-tiles">
         <div class="posts-holder horizontal-tile">
             <?php while(have_rows('boxes_horizontal')){ the_row();
                 $link = get_sub_field('link'); ?>
