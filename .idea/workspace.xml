@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6e5710c-9813-4409-a9a1-ebd9df9d587d" name="Default Changelist" comment="">
+    <list default="true" id="b6e5710c-9813-4409-a9a1-ebd9df9d587d" name="Default Changelist" comment="Added class to horizontal tiles to remove top and bottom padding from section.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599113803602</updated>
-      <workItem from="1599113804902" duration="1018000" />
+      <workItem from="1599113804902" duration="2271000" />
     </task>
     <task id="LOCAL-00001" summary="Initial production code check in">
       <created>1599113995434</created>
@@ -95,11 +119,67 @@
       <option name="project" value="LOCAL" />
       <updated>1599114612529</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added .gitignore">
+      <created>1599115027167</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599115027167</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated .gitignore">
+      <created>1599115183119</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599115183119</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Created new platform snippet without header and title for social page template.">
+      <created>1599115757884</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599115757884</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added class to horizontal tiles to remove top and bottom padding from section.">
+      <created>1599116086544</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599116086544</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -110,24 +190,32 @@
     <MESSAGE value="Initial theme files checkin" />
     <MESSAGE value="Initial dev checkin" />
     <MESSAGE value="Changed order of blocks on page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed order of blocks on page" />
+    <MESSAGE value="Added .gitignore" />
+    <MESSAGE value="Updated .gitignore" />
+    <MESSAGE value="Created new platform snippet without header and title for social page template." />
+    <MESSAGE value="Added class to horizontal tiles to remove top and bottom padding from section." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added class to horizontal tiles to remove top and bottom padding from section." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2143" y="451" key="CommitChangelistDialog2" timestamp="1599114611955">
+    <state x="2143" y="451" key="CommitChangelistDialog2" timestamp="1599115105407">
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
-    <state x="2143" y="451" key="CommitChangelistDialog2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599114611955" />
+    <state x="2143" y="451" key="CommitChangelistDialog2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599115105407" />
     <state x="2012" y="92" width="1016" height="1736" key="DiffContextDialog" timestamp="1599114594290">
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
     <state x="2012" y="92" width="1016" height="1736" key="DiffContextDialog/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599114594290" />
+    <state x="2354" y="879" key="NewPhpFileDialog" timestamp="1599115632729">
+      <screen x="1920" y="0" width="1200" height="1920" />
+    </state>
+    <state x="2354" y="879" key="NewPhpFileDialog/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599115632729" />
     <state x="2021" y="604" key="SettingsEditor" timestamp="1599114821679">
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
     <state x="2021" y="604" key="SettingsEditor/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599114821679" />
-    <state x="2112" y="688" key="Vcs.Push.Dialog.v2" timestamp="1599114408185">
+    <state x="2112" y="688" key="Vcs.Push.Dialog.v2" timestamp="1599115221877">
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
-    <state x="2112" y="688" key="Vcs.Push.Dialog.v2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599114408185" />
+    <state x="2112" y="688" key="Vcs.Push.Dialog.v2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599115221877" />
   </component>
 </project>
