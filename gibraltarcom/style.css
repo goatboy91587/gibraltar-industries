@@ -5065,7 +5065,7 @@ a:hover .bg-dark .plus:before,
         margin: 0 auto 82px;
     }
 
-    body.page .social-obligation .section-header {
+    body.page .social-obligation.section-header {
         margin: 0 auto;
         padding: 40px 0 15px;
     }
