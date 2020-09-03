@@ -3055,6 +3055,10 @@ input[type="submit"]:active,
 	margin: 0 0 41px;
 }
 
+.content-block.social-responsibility h2 {
+	width: 100%;
+}
+
 .strat h2 {
 	margin-right: 90px;
 }
@@ -5754,6 +5758,16 @@ a:hover .bg-dark .plus:before,
 		padding-right: 15px;
 	}
 
+	.social-responsibility .content-holder.wistia-video {
+		padding-left: 0;
+		margin-left: 0;
+	}
+
+	.social-responsibility .content-holder.wistia-video p {
+		display: none;
+		visibility: hidden;
+	}
+
 	.hero-block .content-block .section-header {
 		width: 315px;
 	}
@@ -5765,6 +5779,10 @@ a:hover .bg-dark .plus:before,
 	.content-block > .content-holder {
 		width: calc(100% - 354px);
 		padding-top: 6px;
+	}
+
+	.social-responsibility .content-holder {
+		width: 50%;
 	}
 
 	.content-block ul {

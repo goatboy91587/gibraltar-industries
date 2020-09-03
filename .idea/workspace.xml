@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6e5710c-9813-4409-a9a1-ebd9df9d587d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gibraltarcom/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/gibraltarcom/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gibraltarcom/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/gibraltarcom/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599113803602</updated>
-      <workItem from="1599113804902" duration="5811000" />
+      <workItem from="1599113804902" duration="6213000" />
     </task>
     <task id="LOCAL-00001" summary="Initial production code check in">
       <created>1599113995434</created>
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599117410515</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Template refactor">
+      <created>1599123795246</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1599123795246</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,13 +238,14 @@
     <MESSAGE value="Added new block to remove header from social template's image/text fields." />
     <MESSAGE value="added social tiles class to template" />
     <MESSAGE value="Created video section for template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created video section for template" />
+    <MESSAGE value="Template refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Template refactor" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2010" y="436" key="CommitChangelistDialog2" timestamp="1599117409836">
+    <state x="2010" y="436" key="CommitChangelistDialog2" timestamp="1599123794569">
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
-    <state x="2010" y="436" key="CommitChangelistDialog2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599117409836" />
+    <state x="2010" y="436" key="CommitChangelistDialog2/3120.0.1920.1040/0.0.1920.1040/1920.0.1200.1920@1920.0.1200.1920" timestamp="1599123794569" />
     <state x="2012" y="92" width="1016" height="1736" key="DiffContextDialog" timestamp="1599114594290">
       <screen x="1920" y="0" width="1200" height="1920" />
     </state>
