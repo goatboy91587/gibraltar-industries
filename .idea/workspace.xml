@@ -2,291 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e5710c-9813-4409-a9a1-ebd9df9d587d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/acf-exports/gibraltar-prod-custom-fields.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/404.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9dbf97087cb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9dd64ad8b4a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9e097acd32f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9e40f669056.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9ed795732ee.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9ef6a26be31.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9ef8fce0228.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9f439ce428f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9f48d4a6b99.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9f6242a41ae.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5da3424c06f47.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5da3488eb29f4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5da37789971a1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5dadd57cdbe1a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5e45bef4d7892.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5e4b11a84c676.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/archive.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/blocks/acf/layout-image_title_text_link.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/blocks/acf/layout-info_in_numbers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/blocks/acf/layout-info_section.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/blocks/acf/layout-logos_section.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/blocks/acf/layout-platform_list_blue_block.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/blocks/content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/blocks/not_found.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/blocks/pager-single.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/blocks/pager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/comments.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/fonts/selection.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/Arrow-Right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/alert.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/audio.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/control-collapse.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/control-reveal.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/doc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/email.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/external-link.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/faq.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/html.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img-collage-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img-collage-small-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img-collage-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img-collage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img05-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img05-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img05-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img06-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img06-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img06-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img07-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img07-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img07-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img08-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img08-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img08-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img09-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img09-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img09-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img10-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img10-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img10-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img11-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img11-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img11-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img12-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img13-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img14-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img15-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img16-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img17-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img18-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img19-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img20-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img21-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img22-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img23-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img24-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img25-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img26-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img27-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img28-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img29-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img30-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img31-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img31-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img31-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img32-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img32-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img32-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img33-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img33-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img33-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img34-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img34-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img34-small2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img35-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img35-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img35-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img36-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img36-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img36-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img37-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img37-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img37-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img38-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img38-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img38-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img39-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img39-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img39-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img40-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img40-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img40-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img41-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img41-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img41-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img42-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img42-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img42-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img43-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img43-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img43-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img44-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img44-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img44-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img45-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img45-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img45-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img46-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img46-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img46-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img47-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img47-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img47-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img48-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img48-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img48-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img49-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img49-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img49-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img50-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img50-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img50-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img51-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img51-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img51-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img53-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img54-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img55-2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img56-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img56-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img56-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img57-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img57-small-2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img57-small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/img57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/logo-black-small.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/logo-black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/logo-color.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/logo-footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/logo-footer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/logo-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/minus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/number01.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/number02.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/number03.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/number04.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/number05.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/page-next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/page-previous.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/pdf.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/presentation.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/previous.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/printer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/rss.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/rtf.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/webinar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/xls.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/images/xsd.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/black-box.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/blue-block-investors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/classes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/cpt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/default.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/image-text-combo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/menus.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/open-close-box.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/platform-boxes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/platform-diagram.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/platform-horizontal-tile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/scripts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/sidebars.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/theme_functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/thumbnails.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/inc/widgets.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/js/comment-reply.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/js/jquery.main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/languages/gibraltarcom.pot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/pages/template-bussiness.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/pages/template-home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/pages/template-investors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/pages/template-leadership.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/pages/template-platform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/pages/template-press-resources.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/pages/template-social.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/pages/template-strategy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/searchform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/sidebar-page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/sidebar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/single.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gibraltarcom/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9ef8fce0228.json" beforeDir="false" afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9ef8fce0228.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9f6242a41ae.json" beforeDir="false" afterPath="$PROJECT_DIR$/gibraltarcom/acf-json/group_5d9f6242a41ae.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gibraltarcom/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/gibraltarcom/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gibraltarcom/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/gibraltarcom/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,6 +16,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
@@ -330,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599113803602</updated>
-      <workItem from="1599113804902" duration="305000" />
+      <workItem from="1599113804902" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="Initial production code check in">
       <created>1599113995434</created>
@@ -346,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599114107378</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial theme files checkin">
+      <created>1599114205555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599114205555</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial dev checkin">
+      <created>1599114405252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599114405252</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,10 +94,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial production code check in" />
     <MESSAGE value="Initial ACF export checkin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial ACF export checkin" />
+    <MESSAGE value="Initial theme files checkin" />
+    <MESSAGE value="Initial dev checkin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial dev checkin" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2143" y="451" key="CommitChangelistDialog2" timestamp="1599114204506">

@@ -23,3 +23,9 @@ include( get_template_directory() . '/inc/scripts.php' );
 
 include( get_template_directory() . '/inc/sidebars.php' );
 include( get_template_directory() . '/inc/widgets.php' );
+
+//oEmbed Update
+wp_oembed_add_provider( '/https?:\/\/(.+)?(wistia.com|wi.st)\/(medias|embed)\/.*/', 'http://fast.wistia.com/oembed', true);
+
+//turn off native lazy-loading
+add_filter('wp_lazy_loading_enabled', '__return_false');

@@ -18,12 +18,6 @@ Theme URI:
  * 2. Prevent iOS and IE text size adjust after device orientation change,
  *    without disabling user zoom.
  */
- 
- /* Temp hide COVID section on Social Responsibility Page
- body.page-template-template-social section.atricles-block.bg-light.bg-extended.horiztonal {
-    display: none !important;
-	visibility: hidden !important;
-}*/
 
 html {
 	font-family: sans-serif; /* 1 */
@@ -3406,7 +3400,8 @@ input[type="submit"]:active,
 
 .portfolio-block {
 	padding-top: 65px;
-	padding-bottom: 65px;
+	/*padding-bottom: 65px;*/
+	padding-bottom: 0;
 }
 
 .portfolio-block .section-header {
@@ -4501,7 +4496,8 @@ a:hover .bg-dark .plus:before,
 }
 
 .diagram-block {
-	margin-bottom: 88px;
+	/*margin-bottom: 88px;*/
+	margin-bottom: 20px;
 }
 
 .diagram-block .text-holder {
@@ -4904,7 +4900,8 @@ a:hover .bg-dark .plus:before,
 
 	
 	.image-text-combo {
-		padding-bottom: 315px;
+		/*padding-bottom: 315px;*/
+		padding-bottom: 100px;
 	}
 	
 	/*body.page-template-template-social .image-text-combo {
@@ -5132,8 +5129,10 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.platforms-block {
-		padding-top: 163px;
-		padding-bottom: 147px;
+		/*padding-top: 163px;
+		padding-bottom: 147px;*/
+		padding-top: 80px;
+		padding-bottom: 60px;
 	}
 
 	.platforms-block .text-block {
@@ -5246,8 +5245,10 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.team-block {
-		padding-top: 123px;
-		padding-bottom: 59px;
+		/*padding-top: 123px;
+		padding-bottom: 59px;*/
+		padding-top: 60px;
+		padding-bottom: 60px;
 	}
 
 	.team-block .bg-light {
@@ -5259,7 +5260,8 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.team-block:nth-of-type(2) {
-		padding-bottom: 220px;
+		/*padding-bottom: 220px;*/
+		padding-bottom: 40px;
 	}
 
 	.popup {
@@ -5660,8 +5662,10 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.numbers-block {
-		padding-top: 260px;
-		padding-bottom: 214px;
+		/*padding-top: 260px;
+		padding-bottom: 214px;*/
+		padding-top: 80px;
+		padding-bottom: 180px;
 	}
 
 	.numbers-block .numbers-list {
@@ -5691,8 +5695,10 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.footer > .container {
-		padding-top: 72px;
-		padding-bottom: 58px;
+		/*padding-top: 72px;
+		padding-bottom: 58px;*/
+		padding-top: 40px;
+		padding-bottom: 40px;
 	}
 
 	.footer .logo {
@@ -5767,6 +5773,7 @@ a:hover .bg-dark .plus:before,
 
 	.atricles-block {
 		padding-top: 132px;
+		/*padding-top: 60px;*/
 		padding-bottom: 132px;
 	}
 
@@ -6246,3 +6253,72 @@ a:hover .bg-dark .plus:before,
 	}
 }
 
+/* Job Posting Temp Styling */
+
+body ul.job_types li:before {
+	content: "" !important;
+}
+
+
+body.single-job_listing img.wp-post-image {
+	margin-bottom: 40px;
+}
+
+body.page ul.job_listings li:before,
+body.single-job_listing aside#sidebar,
+body.single-job_listing div.meta,
+body.single-job_listing p.meta-info, 
+body.single-job_listing ul.meta li:before,
+body.single-job_listing div.company {
+	display: none !important;
+	visibility: hidden !important;
+}
+
+body.single-job_listing ul.meta .job-type {
+	background-color: #165fa1 !important;
+}
+
+body.page-id-926 div#content,
+body.single-job_listing div#content {
+    width: 100%;
+}
+
+body.page-id-926 .twocolumns {
+	padding-bottom: 40px;
+}
+
+body .job-manager .job-type,
+body .job-types .job-type,
+body .job_listing .job-type {
+    color: #165fa1;
+}
+
+body .job_listings .position h3 {
+	font-weight: bold;
+	color: #000;
+}
+
+body .job_listings .company strong {
+	font-weight: normal;
+} 
+
+/* Video Box Styling */
+
+section.video-block {
+	margin-bottom: 20px;
+}
+
+.visual.video-box {
+    margin: auto;
+    padding: 0 8px;
+}
+
+.visual.video-box p:not(.video-description) {
+	margin: 0;
+	display: none;
+	visibility: hidden;
+}
+
+.visual.video-box p.video-description {
+	margin-top: 15px;
+}
