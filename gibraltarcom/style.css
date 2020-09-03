@@ -3165,7 +3165,7 @@ input[type="submit"]:active,
 
 .team-member ul {
 	padding-left: 24px;
-	padding-right: 0px;
+	padding-right: 0;
 }
 
 .team-member ul li:before {
@@ -4532,7 +4532,7 @@ a:hover .bg-dark .plus:before,
 }
 
 .text-content ol > li > ol{
-	padding-left: 0px;
+	padding-left: 0;
 	font-size: 12px;
 	line-height: 24px;
 }
@@ -4541,7 +4541,7 @@ a:hover .bg-dark .plus:before,
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 }
 
 .text-content > ol li {
@@ -4557,9 +4557,8 @@ a:hover .bg-dark .plus:before,
 @media (max-width: 639px) {
 	.mobile-diagram{
 		display: block;
-		margin: auto;
+		margin: auto auto 24px auto;
 		text-align: center;
-		margin-bottom: 24px;
 	}
 
 	.bar-mobile {
@@ -4580,7 +4579,7 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.bar-mobile:last-child img {
-		margin-bottom: 0px;
+		margin-bottom: 0;
 	}
 
 	.sub-content {
@@ -4632,7 +4631,7 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.bar-desktop:last-child img {
-		margin-bottom: 0px;
+		margin-bottom: 0;
 	}
 
 	.desktop-diagram img {
@@ -4657,7 +4656,7 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.content-block > .content-holder p {
-		margin-top: 0px;
+		margin-top: 0;
 	}
 
 	.commentlist-item .commentlist-item {
@@ -4927,7 +4926,7 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.combo .article-post:nth-child(even) .text-holder {
-		padding: 0px;
+		padding: 0;
 		max-width: 384px;
 	}
 
@@ -4976,7 +4975,7 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.combo .article-post .text-holder {
-		padding: 0px;
+		padding: 0;
 		max-width: 384px;
 	}
 
@@ -5064,6 +5063,10 @@ a:hover .bg-dark .plus:before,
 		margin: 0 auto 82px;
 	}
 
+	body.page .social-obligation .section-header {
+		margin: 0 auto;
+		padding: 40px 0 15px;
+	}
 	
 	.row.two-cols .col {
 		width: 50%;
@@ -5204,8 +5207,8 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.career-block {
-		padding-bottom: 0px;
-		padding-top: 0px;
+		padding-bottom: 0;
+		padding-top: 0;
 	}
 
 	.career-block .text-holder {
@@ -5946,12 +5949,13 @@ a:hover .bg-dark .plus:before,
 		margin-top: 9vw!important;
 	}
 
-	.horizontal-post .text-holder h2 {
+	.horizontal-post .text-holder h2,
+	body.page .social-obligation h2 {
 		font-size: 2vw;
 	}
 
 	.atricles-block {
-		padding-bottom: 0px;
+		padding-bottom: 0;
 	}
 }
 
@@ -6008,14 +6012,14 @@ a:hover .bg-dark .plus:before,
 
 	.combo .article-post {
 		background-color: #F4F5F7;
-		margin-bottom: 0px;
-		padding: 0px;
+		margin-bottom: 0;
+		padding: 0;
 	}
 
 	.combo .article-post .text-holder {
 		color: #000000;
 		background-color: #ffffff;
-		margin: 0px 26px;
+		margin: 0 26px;
 		width: 90%;
 		padding: 53px 28px 29px;
 	}
@@ -6029,7 +6033,7 @@ a:hover .bg-dark .plus:before,
 	}
 
 	.horiztonal {
-		margin: 20px 20px 0px 20px;
+		margin: 20px 20px 0 20px;
 	}
 
 	
