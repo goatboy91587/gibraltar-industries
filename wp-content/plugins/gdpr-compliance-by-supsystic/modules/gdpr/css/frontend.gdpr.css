@@ -1,0 +1,158 @@
+#grsNotifyBg {
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: none;
+	width: 100%;
+	height: 100%;
+	z-index: 9999998;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+#grsNotifyShell,
+#grsShowAgainShell {
+	display: none;
+	
+	z-index: 9999999;
+	text-align: center;
+	border: none;
+	padding: 10px;
+}
+#grsShowAgainShell {
+	position: fixed;
+	cursor: pointer;
+}
+#grsNotifyShell.grsActive,
+#grsShowAgainShell.grsActive,
+#grsNotifyBg.grsActive {
+	display: block;
+}
+#grsNotifyShell.grs-bar {
+	position: fixed;
+	width: 100%;
+}
+#grsNotifyShell.grs-popup {
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	width: auto;
+	height: auto;
+	transform: translate(-50%, -50%);
+	
+	max-height: 80%;
+    min-height: 170px;
+    min-width: 240px;
+    max-width: 640px;
+    overflow: auto;
+}
+#grsNotifyShell.grs-bar.grs-top {
+	left: 0;
+	top: 0;
+}
+#grsNotifyShell.grs-bar.grs-bottom {
+	left: 0;
+	bottom: 0;
+}
+#grsShowAgainShell.grs-top {
+	top: 0;
+}
+#grsShowAgainShell.grs-bottom {
+	bottom: 0;
+}
+#grsShowAgainShell.grs-right {
+	right: 100px;
+}
+#grsShowAgainShell.grs-left {
+	left: 100px;
+}
+#grsNotifyShell .grsNotifyBtn {
+	display: inline-block;
+	line-height: 26px;
+	height: 28px;
+    margin: 0 2px;
+	font-size: 13px;
+}
+#grsNotifyShell .grsNotifyBtn.grsNotifyBtnStyled {
+    text-decoration: none;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    white-space: nowrap;
+    box-sizing: border-box;
+}
+.grsAgrees .grsAgree {
+	background-color: #c5c5c5;
+}
+.grsAgreeLabel {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    margin-top: 0;
+    margin-right: 4px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+.grsAgreeDesc {
+    color: #000;
+    font-size: 12px;
+    line-height: 16px;
+}
+/*checkboxes*/
+.grsSwitch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.grsSwitch input {display:none;}
+
+.grsInputSlider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.grsInputSlider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .grsInputSlider {
+  background-color: #2196F3;
+}
+
+input:focus + .grsInputSlider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .grsInputSlider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.grsInputSlider.grsRound {
+  border-radius: 34px;
+}
+
+.grsInputSlider.grsRound:before {
+  border-radius: 50%;
+}

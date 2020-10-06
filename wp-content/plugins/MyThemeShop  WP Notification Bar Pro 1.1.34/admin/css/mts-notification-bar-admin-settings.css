@@ -1,0 +1,107 @@
+.mtsnb-settings-wrapper form {
+	position: relative;
+	max-width: 880px;
+}
+
+#mtsnb-settings-tabs {
+	width: 200px;
+  float: left;
+  border-right: 0;
+  margin: 0;
+  z-index: 10;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#mtsnb-settings-tabs li {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+#mtsnb-settings-tabs li a {
+	display: block;
+	font-size: 16px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 13px 15px;
+	text-decoration: none;
+	color: #555;
+	border: 1px solid #ccc;
+	border-top: 0;
+	border-right: 0;
+	outline: none;
+	background: #e5e5e5;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+#mtsnb-settings-tabs li:first-child a {
+	border-top: 1px solid #ccc;
+}
+
+#mtsnb-settings-tabs li.active {
+	margin-right: -1px;
+}
+
+#mtsnb-settings-tabs li.active a {
+	background-color: #fff;
+}
+
+#mtsnb-settings-tabs li a i {
+	margin-right: 8px;
+}
+
+#mtsnb-settings-tabs-content {
+	padding-left: 200px;
+}
+
+#mtsnb-settings-tabs-content .mtsnb-setting-inner-container {
+
+	border: 1px solid #ccc;
+}
+
+#mtsnb-settings-tabs-content .mtsnb-setting-inner-container h2 {
+	margin-top: 0;
+}
+
+#mtsnb-settings-tabs-content .mtsnb-setting-inner-container table {
+	margin-bottom: 20px;
+	border-bottom: 1px dashed #ddd;
+}
+
+#mtsnb-settings-tabs-content .mtsnb-setting-inner-container .mtsnb-tab-content {
+	padding: 15px;
+	background: #fff;
+	display: none;
+}
+
+#mtsnb-settings-tabs-content .mtsnb-setting-inner-container .mtsnb-tab-content.active {
+	display: block;
+}
+
+.mtsnb-settings-wrapper form p.submit {
+	text-align: right;
+}
+
+.mtsnb-settings-wrapper form td {
+	padding-bottom: 25px;
+}
+
+.mtsnb-settings-wrapper form select {
+	width: 250px;
+}
+
+.mtsnb-import-options-wrapper #mtsnb-import-data, .mtsnb-import-options-wrapper #mtsnb-file-import, .mtsnb-import-options-wrapper #mtsnb-import-button, .mtsnb-notification-content #export-mtsnb-data { display: none; }
+.mtsnb-notification-content ul { margin: 0; }
+.mtsnb-notification-content ul li { margin-bottom: 12px; }
+.mtsnb-notification-content ul li input { margin-top: 1px; }
+.mtsnb-notification-content .mtsnb-export-actions { margin-top: 30px; }
+.mtsnb-notification-content .mtsnb-export-actions button { margin-left: 7px; }
+.mtsnb-notification-content .mtsnb-export-actions #export-mtsnb-data { margin-top: 20px; }
+.mtsnb-import-options-wrapper .button { margin-right: 7px; }
+.mtsnb-import-options-wrapper .mtsnb-import-options { margin-bottom: 20px; }
+.mtsnb-import-options-wrapper.show-file #mtsnb-file-import, .mtsnb-import-options-wrapper.show-file #mtsnb-import-button { display: inline-block; }
+.mtsnb-import-options-wrapper.show-code #mtsnb-import-data, .mtsnb-import-options-wrapper.show-code #mtsnb-import-button { display: block; }
+.mtsnb-import-options-wrapper.show-code #mtsnb-import-button { margin-top: 20px; }
