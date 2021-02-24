@@ -29,3 +29,7 @@ wp_oembed_add_provider( '/https?:\/\/(.+)?(wistia.com|wi.st)\/(medias|embed)\/.*
 
 //turn off native lazy-loading
 add_filter('wp_lazy_loading_enabled', '__return_false');
+
+/* Passive Listeners Fix */
+function wp_dereg_script_comment_reply(){wp_deregister_script( 'comment-reply' );}
+add_action('init','wp_dereg_script_comment_reply');

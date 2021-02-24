@@ -77,6 +77,13 @@
                 "operator": "==",
                 "value": "pages\/template-leadership.php"
             }
+        ],
+        [
+            {
+                "param": "page_template",
+                "operator": "==",
+                "value": "pages\/template-team.php"
+            }
         ]
     ],
     "menu_order": 0,
@@ -85,7 +92,7 @@
     "label_placement": "top",
     "instruction_placement": "label",
     "hide_on_screen": "",
-    "active": 1,
+    "active": true,
     "description": "",
-    "modified": 1570718840
+    "modified": 1606845379
 }

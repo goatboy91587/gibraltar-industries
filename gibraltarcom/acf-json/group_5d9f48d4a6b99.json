@@ -4,7 +4,7 @@
     "fields": [
         {
             "key": "field_5db08a3fcdfb8",
-            "label": "Featured image 2x",
+            "label": "Featured Image 2x",
             "name": "featured_image 2x",
             "type": "image",
             "instructions": "",
@@ -63,5 +63,5 @@
     "hide_on_screen": "",
     "active": true,
     "description": "",
-    "modified": 1583511335
+    "modified": 1606832522
 }

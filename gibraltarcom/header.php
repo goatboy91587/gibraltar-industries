@@ -3,6 +3,8 @@
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
+		<meta http-equiv="Content-Security-Policy" content="object-src 'self'">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8; X-Content-Type-Options=nosniff">
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class(); ?>>
@@ -10,7 +12,7 @@
 			<?php $banner = get_banner_html(get_queried_object_id());
 			$header_style = (is_page() || is_single()) && get_field('header_style', get_queried_object_id()) ? get_field('header_style', get_queried_object_id()) : 'bg-light';
 			$header_bg = is_page() || is_single() ? get_field('bg_image', get_queried_object_id()) : false; ?>
-			<?php if(is_page_template('pages/template-leadership.php') || is_page_template('pages/template-strategy.php') || is_page_template('pages/template-social.php')) echo '<div class="hero-block">'; ?>
+			<?php if(is_page_template('pages/template-leadership.php') || is_page_template('pages/template-strategy.php') || is_page_template('pages/template-social.php') || is_page_template('pages/template-team.php')) echo '<div class="hero-block">'; ?>
 			<header class="header <?php echo $header_style; ?>">
 				<?php retina_image_html($header_bg, '<span class="bg-stretch">', '</span>', '(max-width: 639px)'); ?>
 			  <div class="header-top <?php if($header_style == 'bg-dark' && !$header_bg ) echo 'has-bg'; ?> ">
@@ -67,7 +69,7 @@
 					<?php
 				} ?>
 			</header>
-			<?php if(is_page_template('pages/template-leadership.php') || is_page_template('pages/template-strategy.php')){
+			<?php if(is_page_template('pages/template-leadership.php') || is_page_template('pages/template-strategy.php') || is_page_template('pages/template-team.php')){
 				if($top_blue_block = get_field('top_blue_block')){
 					?>
 					<section class="content-block container bg-dark bg-blue">
@@ -89,7 +91,7 @@
             <?php if(is_page_template('pages/template-social.php')){
                 if($top_blue_block = get_field('top_blue_block')){
                     ?>
-                    <section class="content-block container bg-dark bg-blue social-responsibility">
+                    <section id="covid" class="content-block container bg-dark bg-blue social-responsibility">
                         <?php if(isset($top_blue_block['title']) && !empty($top_blue_block['title'])){ ?>
                                 <h2><?php echo $top_blue_block['title'] ?></h2>
                         <?php } ?>

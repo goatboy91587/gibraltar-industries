@@ -398,6 +398,11 @@
                 "param": "page_template",
                 "operator": "!=",
                 "value": "pages\/template-social.php"
+            },
+            {
+                "param": "page_template",
+                "operator": "!=",
+                "value": "pages\/template-team.php"
             }
         ]
     ],
@@ -407,7 +412,7 @@
     "label_placement": "top",
     "instruction_placement": "label",
     "hide_on_screen": "",
-    "active": 1,
+    "active": true,
     "description": "",
-    "modified": 1588008645
+    "modified": 1607120888
 }

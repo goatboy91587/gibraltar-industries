@@ -1,8 +1,7 @@
 <?php $block_headline = get_field('block_headline');
-$block_subhead = get_field('block_subhead');
-if(have_rows('image_text_combo') || $block_headline || $block_subhead){ ?>
+if(have_rows('image_text_combo') || $block_headline){ ?>
     <section class="bg-light image-text-combo">
-        <?php if($block_headline || $block_subhead){ ?>
+        <?php if($block_headline){ ?>
             <header class="section-header text-center social-obligation">
                 <?php if($block_headline){ ?><h2><?php echo $block_headline; ?></h2><?php } ?>
             </header>

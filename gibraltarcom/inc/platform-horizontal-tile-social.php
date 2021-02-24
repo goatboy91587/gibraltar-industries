@@ -1,7 +1,7 @@
 <?php
 
 $button = get_field('button');
-if(have_rows('boxes_horizontal') || $button || $block_title || $block_text){ ?>
+if(have_rows('boxes_horizontal') || $button){ ?>
     <section class="atricles-block bg-light bg-extended horiztonal social-tiles">
         <div class="posts-holder horizontal-tile">
             <?php while(have_rows('boxes_horizontal')){ the_row();

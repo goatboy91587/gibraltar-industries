@@ -13,7 +13,7 @@ function base_scripts_styles() {
 	}
 
 	// Loads JavaScript file with functionality specific.
-	wp_enqueue_script( 'ajax-script', 'http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js', array( 'jquery' ), '', $in_footer );
+	wp_enqueue_script( 'ajax-script', 'https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js', array( 'jquery' ), '', $in_footer );
 	wp_enqueue_script( 'base-script', get_template_directory_uri() . '/js/jquery.main.js', array( 'jquery' ), '', $in_footer );
 
 	// Loads our main stylesheet.

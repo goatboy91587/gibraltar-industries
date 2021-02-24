@@ -276,6 +276,25 @@
             "max": 1
         },
         {
+            "key": "field_5f50967597928",
+            "label": "Video Embed",
+            "name": "video_embed",
+            "type": "wysiwyg",
+            "instructions": "Video embed section for Social Responsibility page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
             "key": "field_5d9ed7cbf0bdd",
             "label": "Top Blue Block",
             "name": "top_blue_block",
@@ -352,6 +371,13 @@
                 "operator": "==",
                 "value": "pages\/template-social.php"
             }
+        ],
+        [
+            {
+                "param": "page_template",
+                "operator": "==",
+                "value": "pages\/template-team.php"
+            }
         ]
     ],
     "menu_order": 0,
@@ -362,7 +388,7 @@
     "hide_on_screen": [
         "featured_image"
     ],
-    "active": 1,
+    "active": true,
     "description": "",
-    "modified": 1588009304
+    "modified": 1607120873
 }
